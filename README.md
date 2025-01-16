@@ -6,7 +6,7 @@
 
 <p align="left">
   Puca Vaz from 🇧🇷 <br>
-  Bachelor's degree in computer science @ UFPB <br>Research @ TRIL lab</p>
+  Bachelor's degree in computer science @ UFPB <br>
 
 ###
 
