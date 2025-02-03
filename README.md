@@ -11,6 +11,6 @@
 
 ###
 
-[![Top Langs](https://githubstats-git-main-puca-vazs-projects.vercel.app/api/top-langs/?username=pucavaz&exclude_repo=github_stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://githubstats-git-main-puca-vazs-projects.vercel.app/api/top-langs/?username=pucavaz&exclude_repo=github_stats&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
