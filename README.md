@@ -5,8 +5,8 @@
 ###
 
 <p align="left">
-🇧🇷 CS undergrad @ UFPB
-empowering schools @ Isaac
+🇧🇷 CS undergrad @ UFPB <br> 
+Empowering schools @ Isaac
 
 
 ###
