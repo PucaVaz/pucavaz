@@ -5,9 +5,9 @@
 ###
 
 <p align="left">
-  Puca Vaz from 🇧🇷 <br>
-  Bachelor's degree in computer science @ UFPB <br>
-  propelling schools @ isaac
+🇧🇷 CS undergrad @ UFPB
+empowering schools @ Isaac
+
 
 ###
 
