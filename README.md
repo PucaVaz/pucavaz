@@ -5,9 +5,8 @@
 ###
 
 <p align="left">
-🇧🇷 CS undergrad @ UFPB <br> 
-Empowering schools @ Isaac
-
+🇧🇷 CS @ UFPB <br> 
+Building a AI Doctor @ Telepatia.ai
 
 ###
 
