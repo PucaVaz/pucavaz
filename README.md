@@ -6,7 +6,7 @@
 
 <p align="left">
 🇧🇷 CS @ UFPB <br> 
-Building a AI Doctor @ Telepatia.ai
+Building an AI Doctor @ Telepatia.ai
 
 ###
 
