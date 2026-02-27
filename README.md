@@ -5,7 +5,8 @@
 ###
 
 <p align="left">
-🇧🇷 CS @ UFPB <br> 
+🇧🇷  <br> 
+CS @ UFPB <br> 
 Building an AI Doctor @ Telepatia.ai
 
 ###
